@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# uv specific files
+uv.lock
+pyproject.toml
+.python-version
+
+# extension specific files
+DevPulse-output.txt
+DevPulse-output.md
