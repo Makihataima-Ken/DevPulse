@@ -172,10 +172,6 @@ python manage.py migrate
 - Enable HTTPS in production
 - Consider encrypting GitHub tokens before storing
 
-## License
-
-[Your License Here]
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
