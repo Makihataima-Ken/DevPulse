@@ -9,6 +9,9 @@ wheels/
 # Virtual environments
 .venv
 
+# service key
+firebase-service-account.json
+
 # uv specific files
 uv.lock
 pyproject.toml
