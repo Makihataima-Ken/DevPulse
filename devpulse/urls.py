@@ -17,6 +17,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
+from activities.views import TestAuthView
+
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path("test-auth/", TestAuthView.as_view()),
+
 ]
