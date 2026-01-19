@@ -20,3 +20,8 @@ pyproject.toml
 # extension specific files
 DevPulse-output.txt
 DevPulse-output.md
+
+# database files
+*.sqlite3
+
+.env
